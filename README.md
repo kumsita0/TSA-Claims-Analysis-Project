@@ -73,9 +73,12 @@ This dataset provides airport geographic information used for mapping, including
 
 ```
 TSA-Claims-Analysis-Project/
-│
-├── TSA_Claims_Analysis.R        # Main R analysis script
-│
+├── scripts/
+│  └──TSA_Claims_Analysis.R      # Main R analysis script
+│ 
+├── docs/
+│  └──Assignment 3 TSA.pdf      # Supporting document for the questions that lead to the goal of the project
+│ 
 ├── README.md                    # Project documentation
 │
 ├── data/
